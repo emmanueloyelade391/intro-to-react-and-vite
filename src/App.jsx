@@ -26,7 +26,7 @@ function App() {
                     count is {count}
                 </button>
                 <p>
-                    Edit <code>src/App.jsx</code> and save to test HMR
+                    This is our team comprised of Emmanuel, Ardit, Jiangping, and Yiming.
                 </p>
             </div>
             <p className="read-the-docs">
